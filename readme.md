@@ -1,8 +1,5 @@
 # Lumen + Bootstrap Sass + Font Awesome Sass Boilerplate
 
-Laravel Lumen is a stunningly fast PHP micro-framework, based on Laravel, for building web applications with expressive, elegant syntax.
-
-
 ## Requirements
 
 
